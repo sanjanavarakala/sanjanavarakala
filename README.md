@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sanjanavarakala
-- 👩‍🎓 I’m a Fresher
-- 📚 I'm skilled at few emerging technologies like C, Java, Python, HTML, CSS, JavaScript and React.Js
-- 👤 I’m currently looking for an opportunity in a prestigious organization
-- 👩‍💼 I’m an immediate joiner and a quick leaner where I can easily grasp and adapt the new technologies. 
+- 🧑‍💻 Working as Process Executive at Cognizant.
+- 📚 I possess proficiency in cutting-edge technologies such as C, Java, Python, HTML, CSS, JavaScript, React.js, and Google Ads.
+- 👤 Presently, I am immersed in the realm of Google Ads, wielding a wealth of advertising expertise coupled with relevant certifications.
 - 📫 You can reach me at sanjana.varakala@gmail.com
 
 <!---
